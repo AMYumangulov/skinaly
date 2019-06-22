@@ -1,0 +1,2 @@
+.features-block{display:flex;justify-content:space-between;flex-wrap:wrap}.features-block__item{flex-basis:33%;text-align:center;margin-bottom:110px}@media (max-width: 991px){.features-block__item{flex:50%}}@media (max-width: 768px){.features-block__item{flex-basis:100%;margin-bottom:50px}}
+/*# sourceMappingURL=_features.css.map */

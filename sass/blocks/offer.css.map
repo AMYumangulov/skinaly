@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM,CACL,OAAO,CAAE,OAAO,CAChB,aAAQ,CACP,gBAAgB,CAAE,IAAI,CACtB,OAAO,CAAE,IAAI",
+"sources": ["offer.sass"],
+"names": [],
+"file": "offer.css"
+}

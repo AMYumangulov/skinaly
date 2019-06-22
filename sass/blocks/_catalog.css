@@ -1,0 +1,2 @@
+.catalog-block{display:flex;justify-content:space-between;flex-wrap:wrap}.catalog__card{margin-bottom:30px}.catalog-card{max-width:570px;position:relative;box-shadow:7px 5px 21px rgba(0,0,0,0.1)}.catalog-card__buttons{position:absolute;display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex;bottom:0;right:0}.catalog-card__button{font-size:11px;border:none;text-transform:uppercase;padding:10px;height:30px}.catalog-card__tag{position:absolute;top:0;left:0}.catalog-card__image{display:block}
+/*# sourceMappingURL=_catalog.css.map */

@@ -1,0 +1,9 @@
+[2019-06-22 09:02:54] layer "info!mail.cu": Unsupported extension: cu
+[2019-06-22 09:02:54] layer "+7 499 123-45-67": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-06-22 09:02:54] layer "5404177@mail.ru": Unsupported extension: ru
+[2019-06-22 09:02:54] layer "+7 499 123-45-67": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-06-22 09:02:54] layer "5404177@mail.ru ": Unsupported extension: ru
+[2019-06-22 09:02:54] layer "+7 912 123-45-67": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-06-22 09:02:54] layer "+7 499 123-45-67": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-06-22 09:02:54] layer "+7 912 123-45-67 копия": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-06-22 09:02:54] layer "+7 499 123-45-67": Expected Either a default asset specification or a layer asset specification but "+" found.
